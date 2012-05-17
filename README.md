@@ -6,4 +6,4 @@ And of course chef is at http://wiki.opscode.com/display/chef/Home
 
 To install: clone this repo, install Bundler (gem install bundler), and install the chefspec gems via bundler (bundle install).
 
-To run the tests: "rspec mytestcookbook/"
+To run the tests (from the top level of this repo, had to create and isolated rvm): "rspec mytestcookbook/"
